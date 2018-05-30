@@ -29,5 +29,5 @@
 /config/secrets.yml
 
 #Don't want to add this tracker
-.idea/
+.idea/*
 
