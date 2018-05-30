@@ -28,4 +28,6 @@
 # Don't want to show secrets
 /config/secrets.yml
 
+#Don't want to add this tracker
+.idea/
 
