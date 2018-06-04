@@ -1,9 +1,3 @@
-GIT
-  remote: https://github.com/sanjeetboora/sanjeet_view_tool
-  revision: fa42084bc0953d362ba9512382107b5ebba2324f
-  specs:
-    sanjeet_view_tool (0.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -159,6 +153,7 @@ GEM
       actionpack (>= 4.2.0, < 5.3)
       railties (>= 4.2.0, < 5.3)
     ruby_dep (1.5.0)
+    sanjeet_view_tool (0.1.0)
     sass (3.5.6)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
@@ -221,7 +216,7 @@ DEPENDENCIES
   pry-byebug
   puma (~> 3.11)
   rails (~> 5.2.0)
-  sanjeet_view_tool!
+  sanjeet_view_tool (~> 0.1.0)
   sass-rails (~> 5.0)
   spring
   spring-watcher-listen (~> 2.0.0)
